@@ -1,0 +1,6 @@
+{
+    "globalHeaders": {
+      "Access-Control-Allow-Origin": "https://public.tableau.com",
+      "Access-Control-Allow-Methods": "POST, GET, OPTIONS"
+    }
+  }
