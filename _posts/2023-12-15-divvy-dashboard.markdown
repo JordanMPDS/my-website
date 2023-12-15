@@ -3,7 +3,7 @@ layout: post
 title:  "Divvy Dashboard"
 date:   2023-12-15 10:03:00 -0600
 categories: post
-hidden: true
+published: false
 ---
 
 Tableau is becoming one of the most popular BI tools on the market.  According to enlyft, Tableau currently has a 16.26% market share for Business Intelligence software.  Some companies who use Tableau include The American Red Cross, Nike, and Amica.
