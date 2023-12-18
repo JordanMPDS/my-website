@@ -4,7 +4,7 @@ title: About Jordan
 permalink: /about/
 ---
 
-I am a Senior Business Analyst for a $72B Fortune 15 multinational tech corporation with 7+ years’ experience in business intelligence, including leading teams of up to 50. I have a Knack for process automation and data analytics enhancement with an eye for contributing to revenue growth. Expertise in developing PowerBI reporting and dashboards. Leadership in business intelligence and risk management with a high capacity to spearhead new strategies. Adept in business intelligence analysis, machine learning, and data visualization. Genuinely enjoy solving problems, spearheading new projects and operationalizing systems, reports & dashboards. Approach work and life with an attitude of opportunity.
+I am a Senior Business Analyst for a $72B Fortune 15 multinational tech corporation with 7+ years’ experience in business intelligence, including leading teams of up to 50. I have a knack for process automation and data analytics enhancement with an eye for contributing to revenue growth. Expertise in developing PowerBI reporting and dashboards. Leadership in business intelligence and risk management with a high capacity to spearhead new strategies. Adept in business intelligence analysis, machine learning, and data visualization. Genuinely enjoy solving problems, spearheading new projects and operationalizing systems, reports & dashboards. Approach work and life with an attitude of opportunity.
 
 My public Credly profile page can be [found here][credly-profile]{:target="_blank"}, including certifications for my [Tableau Desktop Specialist][tableau-desktop-specialist]{:target="_blank"} and [Disciplined Agile Scrum Master][disciplined-agile-scrum-master]{:target="_blank"}.
 
