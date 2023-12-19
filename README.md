@@ -1,6 +1,6 @@
 # jekyll-timeline
 
-This is a small group of html and css includes for Jekyll that lets you create a beautiful timeline. It doesn't have any dependencies or require any plugins so it works great with out-of-the box Jekyll on GitHub Pages. I've tested it on Jekyll `3.3.0` and I'm personally motivated to make sure it stays functional with the [version GitHub uses](https://pages.github.com/versions/).
+This is a small group of html and css includes for Jekyll that lets you create a beautiful timeline. It doesn't have any dependencies or require any plugins so it works great with out-of-the box Jekyll on GitHub Pages. This version has been edited to work with Jekyll 4.3.2
 
 ## Use Cases
 
