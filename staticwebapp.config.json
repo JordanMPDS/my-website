@@ -1,0 +1,5 @@
+  {
+    "globalHeaders": {
+      "content-security-policy": "default-src 'self'; frame-src 'self' https://public.tableau.com;"
+    }
+  }
