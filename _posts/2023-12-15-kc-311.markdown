@@ -11,4 +11,10 @@ KC 311 is a hotline for Kansas City residents to report a problem, request a ser
 
 This dashboard is fully interactive and allows users to see the details of the various cases through different filters and selections.  There is also a separate page for seeing case details so as to not clutter up the page with visualizations.
 
-<iframe width="1200" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZWE4NGFkOTYtZDY5Yy00NWQ3LTk3M2ItZjA5Y2VhZTI4ZjNkIiwidCI6ImE0NjI4MDExLTg5MGQtNDAzOC1hYTdiLTRjNDZhMGRmMTQ4ZSIsImMiOjN9&pageName=ReportSection873e226a006721001301" frameborder="0" allowfullscreen="true"></iframe>
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiZWE4NGFkOTYtZDY5Yy00NWQ3LTk3M2ItZjA5Y2VhZTI4ZjNkIiwidCI6ImE0NjI4MDExLTg5MGQtNDAzOC1hYTdiLTRjNDZhMGRmMTQ4ZSIsImMiOjN9&pageName=ReportSection873e226a006721001301" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    </iframe>
+  </div>
+</div>
