@@ -5,7 +5,7 @@ baseurl: "/jekyll-timeline" # the subpath of your site, e.g. /blog
 twitter_username: simplgy
 github_username:  simplgy
 permalink: /:title/
-host: 0.0.0.0 # allows external access
+#host: 0.0.0.0 # allows external access
 markdown: kramdown
 gems:
   - jekyll-feed
@@ -14,5 +14,8 @@ exclude:
   - Gemfile.lock
   - '/README.md'
   - '*.sass'
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 # github:
 #   repositoryName: '/'

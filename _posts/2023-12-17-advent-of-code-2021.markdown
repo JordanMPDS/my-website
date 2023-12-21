@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "Advent of Code 2021"
+date:   2023-12-17 19:13:00 -0600
+categories: post
+---
+
+Advent of Code is a series of coding challenges made every year, since 2015, by the talented Eric Wastle. He has other projects like Anoik.is which is a database of wormhole information from the video game EVE, and Vanilla JS which is a framework fr creating JavaScript applications.
+
+This is the first year I’ve partaken in these coding challenges. All of my completed projects are listed below:
+
+## Day 1
+
+{% highlight python %}
+import pandas as pd
+
+advent_df = pd.read_csv('./Day1Advent.csv')
+
+advent_df.columns = ['Depth']
+advent_df['PreviousDepth'] = advent_df['Depth'].shift()
+
+advent_df = advent_df.astype({  "Depth":'float',
+                                "PreviousDepth":'float'})
+
+advent_df['DepthChange'] = advent_df['Depth'] > advent_df['Depth'].shift()
+advent_df['RollingSum'] = advent_df.Depth.rolling(3).sum()
+advent_df['RollingSumChange'] = advent_df['RollingSum'] > advent_df['RollingSum'].shift()
+
+print('Number of times Depth increases from previous measurement: ' + str(sum(advent_df['DepthChange'])))
+print('Number of times the sum of measurements in a 3 measurement window increases: '+ str(sum(advent_df['RollingSumChange'])))
+{% endhighlight %}
+
+```
+Number of times Depth increases from previous measurement: 1447
+Number of times the sum of measurements in a 3 measurement window increases: 1471
+```
+
+## Day 2
+
+{% highlight python %}
+import pandas as pd
+
+aim = 0
+depth = 0
+forward = 0
+up = 0
+down = 0
+
+advent_df = pd.read_csv('./Day2Advent.csv')
+advent_df = advent_df.astype({  "Course":'string'})
+
+newdf = advent_df['Course'].str.split(" ", expand = True)
+advent_df['Direction'] = newdf[0]
+advent_df['Change'] = newdf[1]
+advent_df.drop(columns = ['Course'], inplace = True)
+advent_df = advent_df.astype({  "Change":'int'})
+
+for lab, row in advent_df.iterrows() :
+    if row['Direction'] == 'down':
+        aim = aim + row['Change']
+    if row['Direction'] == 'up':
+        aim = aim - row['Change']
+    if row['Direction'] == 'forward':
+        depth = depth + row['Change'] * aim
+
+forward = advent_df.loc[advent_df['Direction'] == 'forward', 'Change'].sum()
+up = advent_df.loc[advent_df['Direction'] == 'up', 'Change'].sum()
+down = advent_df.loc[advent_df['Direction'] == 'down', 'Change'].sum()
+
+print('Old final position: ' + str(forward *(down - up)))
+print('New final position: ' + str(forward * depth))
+{% endhighlight %}
+
+```
+Old final position: 1882980
+New final position: 1971232560
+```
+## Day 3
+
+{% highlight python %}
+import pandas as pd
+
+advent_df = pd.read_csv('./Day3Advent.txt', dtype={'Numbers':str})
+
+advent_df['FirstNum'] = pd.to_numeric(advent_df['Numbers'].str[0])
+advent_df['SecondNum'] = pd.to_numeric(advent_df['Numbers'].str[1])
+advent_df['ThirdNum'] = pd.to_numeric(advent_df['Numbers'].str[2])
+advent_df['FourthNum'] = pd.to_numeric(advent_df['Numbers'].str[3])
+advent_df['SixthNum'] = pd.to_numeric(advent_df['Numbers'].str[4])
+advent_df['SeventhNum'] = pd.to_numeric(advent_df['Numbers'].str[5])
+advent_df['EigthNum'] = pd.to_numeric(advent_df['Numbers'].str[6])
+advent_df['NinthNum'] = pd.to_numeric(advent_df['Numbers'].str[7])
+advent_df['TenthNum'] = pd.to_numeric(advent_df['Numbers'].str[8])
+advent_df['EleventhNum'] = pd.to_numeric(advent_df['Numbers'].str[9])
+advent_df['TwelfthNum'] = pd.to_numeric(advent_df['Numbers'].str[10])
+advent_df['ThirteenthNum'] = pd.to_numeric(advent_df['Numbers'].str[11])
+
+x = 1
+gamma_binary = ""
+epsilon_binary = ""
+
+while x < len(advent_df.columns):
+    high = 0
+    low = 0
+    for lab, row in advent_df.iterrows():
+        if (row[x]) == 1:
+            high += 1
+        elif (row[x] == 0):
+            low += 1
+    if high > low:
+        gamma_binary += str(1)
+        epsilon_binary += str(0)
+    else:
+        gamma_binary += str(0)
+        epsilon_binary += str(1)
+    x += 1
+
+print(int(gamma_binary, 2) * int(epsilon_binary, 2))
+
+{% endhighlight %}
+
+```
+3813416
+```
