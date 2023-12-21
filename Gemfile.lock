@@ -72,8 +72,5 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-seo-tag (~> 2.6)
 
-RUBY VERSION
-   ruby 3.2.2p53
-
 BUNDLED WITH
    2.4.15
