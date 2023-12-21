@@ -1,7 +1,7 @@
 - name: "JeffreyM - Microsoft"
   from: 2022-04-01
   to: 2023-12-31
-  description: |
+  description: |-
     Automated multiple manual processes, created and maintained PowerBI reporting and dashboards and built showcases for 200+ games in Game Pass, contributing to a $20M monthly revenue stream.
     
     Valued Games for contract negotiations, determining ROI and what Microsoft should pay for them.
@@ -26,7 +26,7 @@
 - name: "RBC Wealth Management"
   from: 2022-01-01
   to: 2022-04-01
-  description: |
+  description: |-
     Assessed internal risk and monitored reporting metrics within the newly established Internal Risk Management team, identifying new outliers and ensuring compliance with regulatory agencies.
     
     Enhanced RBC workflow automation, reducing a 3-hour process to 20 minutes and saving $225 monthly.
@@ -43,7 +43,7 @@
 - name: "H&R Block"
   from: 2020-09-01
   to: 2021-12-01
-  description: |
+  description: |-
     Pioneered the development of Salesforce dashboards and reports at H&R Block, establishing the foundation for company-wide analytics. Independently constructed data pipelines from scratch to support reporting needs.
 
     Led the development and widespread adoption of reporting and dashboard creation within Salesforce Tableau CRM (Einstein Analytics) and standard Dashboards and Reports, fostering collaboration with business partners.
@@ -61,7 +61,7 @@
 - name: "FISERV"
   from: 2019-12-01
   to: 2020-05-01
-  description: |
+  description: |-
     Led business intelligence meetings focused on identifying and documenting opportunities for enhancing reporting and established new KPIs. Designed and maintained enterprise-level reporting for senior VPs and Directors.
 
     Developed custom queries using T-SQL within Aginity and SSMS for data manipulation, sanitation, and aggregation, facilitating advanced visualization in Power BI.
@@ -76,7 +76,7 @@
 - name: "Elan Financial Services"
   from: 2016-11-01
   to: 2019-12-01
-  description: |
+  description: |-
     Managed fraud control standards by establishing a robust foundation in data collection and analysis within an agile environment, collaborating closely with internal stakeholders to develop effective reporting tools.
 
     Implemented 15 software improvements, resulting in a 300% increase in processed call volume.
