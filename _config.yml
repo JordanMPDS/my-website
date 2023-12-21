@@ -1,10 +1,12 @@
-title: "jekyll-timeline - Source and Examples"
-description: This is a small group of html and css includes for Jekyll that lets you create a beautiful timeline.
-baseurl: "/jekyll-timeline" # the subpath of your site, e.g. /blog
+title: "Jordan's portfolio"
+description: My career change to business intelligence and data analytics was a quick one in 2016.
+  Our department had a need to understand our performance and how we can improve.
+  I love learning new things so I volunteered to take up this project.
+  When we started the only tool we had available was Excel, and I quickly learned how to manipulate it to do what I wanted.
+  Today I've learned multiple visualization tools, data extraction, and I'm starting to teach myself Python and R.
+baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://www.simple.gy/jekyll-timeline/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: simplgy
-github_username:  simplgy
-permalink: /:title/
+github_username:  JordanMPDS
 #host: 0.0.0.0 # allows external access
 markdown: kramdown
 gems:
