@@ -4,6 +4,7 @@ My website will be split in to a number of various projects.  I will also have a
 
 ### Creating dashboards
 [KC 311](https://jordanmartinetti.com/post/2023/12/15/kc-311.html)
+
 [Divvy Dashboard](https://jordanmartinetti.com/post/2023/12/15/divvy-dashboard.html)
 
 ### Data analysis
