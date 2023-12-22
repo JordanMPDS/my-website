@@ -1,6 +1,6 @@
 ## This project is a composition of personal and professional work.
 
-My website will be split in to a number of various projects.  I will also have a timeline created to display my [professional history](https://jordanmartinetti.com/2023/12/21/resume.html)
+My website will be split in to a number of various projects.  I also have a first version of a timeline displaying my [professional history](https://jordanmartinetti.com/2023/12/21/resume.html)
 
 ### Creating dashboards
 [KC 311](https://jordanmartinetti.com/post/2023/12/15/kc-311.html)
