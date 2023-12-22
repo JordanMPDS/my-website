@@ -484,7 +484,7 @@ for (train_ratio in seq(from=0.05, to=0.95, by=0.05)){
 plot(x = seq(from=0.05, to=0.95, by=0.05)*100, y = Accuracy.list, type="b", xlab="Percentage of training samples (%)",ylab="Overall accuracy (%)")
 ```
 
-![plot of chunk unnamed-chunk-1](/images/unnamed-chunk-1-1.png)
+![IonosphereAccuracy](/images/IonosphereAccuracy.png)
 
 ```r
 df_n <- as.data.frame(lapply(df[-35], max_min_normalize))
@@ -554,6 +554,6 @@ for (k_try in 1 : (k0*2)){
 plot(x = 1 : (k0*2), y = Accuracy.list, type="b", xlab="k-Value",ylab="Overall accuracy (%)") 
 ```
 
-![plot of chunk unnamed-chunk-1](/images/unnamed-chunk-1-2.png)
+![IonosphereKValue](/images/IonosphereKValue.png)
 
 [ionosphere-data]: https://data.world/uci/ionosphere
