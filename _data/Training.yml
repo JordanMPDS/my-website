@@ -1,3 +1,10 @@
+- name: "Microsoft Certified: Azure Fundamentals"
+  to: 2023-12-01
+  description: >
+    This certification validates your foundational knowledge of cloud concepts in general and Azure in particular.
+    As a recipient for this certification, you can describe Azure architectural components and Azure services, such as compute, networking, and storage,
+    as well as features and tools to secure, govern, and administer Azure.
+
 - name: "Disciplined Agile Scrum Master (DASM)"
   to: 2021-10-31
   description: >

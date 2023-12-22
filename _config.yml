@@ -1,13 +1,15 @@
 title: "Jordan's portfolio"
-description: My career change to business intelligence and data analytics was a quick one in 2016.
-  Our department had a need to understand our performance and how we can improve.
-  I love learning new things so I volunteered to take up this project.
-  When we started the only tool we had available was Excel, and I quickly learned how to manipulate it to do what I wanted.
-  Today I've learned multiple visualization tools, data extraction, and I'm starting to teach myself Python and R.
+author:
+  name: Jordan Martinetti
+  email: jordan@jordanmartinetti.com
+description: |
+    My career change to business intelligence and data analytics was a quick one in 2016.
+    Our department had a need to understand our performance and how we can improve.
+    I love learning new things so I volunteered to take up this project.
+    When we started the only tool we had available was Excel, and I quickly learned how to manipulate it to do what I wanted.
+    Today I've learned multiple visualization tools, data extraction, and I'm starting to teach myself Python and R.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://www.simple.gy/jekyll-timeline/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  JordanMPDS
-#host: 0.0.0.0 # allows external access
+
 markdown: kramdown
 gems:
   - jekyll-feed
@@ -19,5 +21,26 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-# github:
-#   repositoryName: '/'
+
+show_excerpts: true
+
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: classic
+  
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #date_format: "%b-%d-%Y"
+
+  # Generate social links in footer.
+  social_links:
+  - { platform: github,         user_url: "https://github.com/JordanMPDS" }
