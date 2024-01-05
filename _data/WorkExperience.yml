@@ -1,4 +1,4 @@
-- name: "JeffreyM - Microsoft"
+- name: "**JeffreyM - Microsoft: Senior Business Analyst**"
   from: 2022-05-01
   to: 2023-12-31
   description: |-
@@ -23,7 +23,7 @@
     Developed and presented comprehensive showcase decks for industry expositions and gaming conferences, effectively highlighting product features and capabilities.
 
 
-- name: "RBC Wealth Management"
+- name: "**RBC Wealth Management: Senior Data Analyst**"
   from: 2022-01-01
   to: 2022-04-01
   description: |-
@@ -40,7 +40,7 @@
     Automated Excel-based workbooks into Python scripts, achieving a 30% reduction in required work time.
 
 
-- name: "H&R Block"
+- name: "**H&R Block: Senior Business Analyst**"
   from: 2020-09-01
   to: 2021-12-01
   description: |-
@@ -58,7 +58,7 @@
 
     Utilized a suite of SaaS tools, including Salesforce, Azure, Looker, and Jira, to optimize project execution and streamline data management processes.
 
-- name: "FISERV"
+- name: "**FISERV: Business Intelligence Analyst**"
   from: 2019-12-01
   to: 2020-05-01
   description: |-
@@ -73,7 +73,7 @@
     Transformed an Excel-based attendance tracker into an Access application, complete with custom buttons, forms, and dynamically generated reports. Mediated manager disputes regarding dashboard UI design and KPI metrics.
 
 
-- name: "Elan Financial Services"
+- name: "**Elan Financial Services: Operations Analyst**"
   from: 2016-11-01
   to: 2019-11-01
   description: |-

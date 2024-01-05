@@ -3,11 +3,7 @@ author:
   name: Jordan Martinetti
   email: jordan@jordanmartinetti.com
 description: |
-    My career change to business intelligence and data analytics was a quick one in 2016.
-    Our department had a need to understand our performance and how we can improve.
-    I love learning new things so I volunteered to take up this project.
-    When we started the only tool we had available was Excel, and I quickly learned how to manipulate it to do what I wanted.
-    Today I've learned multiple visualization tools, data extraction, and I'm starting to teach myself Python and R.
+    Personal collection of professional and personal work, education, and training.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 markdown: kramdown
@@ -34,7 +30,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
