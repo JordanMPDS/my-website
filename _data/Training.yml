@@ -1,3 +1,10 @@
+- name: "Chegg Skills Data Science Certificate"
+  to: 2024-01-28
+  description: >
+    This Data Science program teaches you to use math and coding to solve complex business problems and predict future outcomes.
+    You practiced using Python and SQL to analyze big datasets fast, and also learn about machine learning models and algorithms.
+    You'll apply your skills along the way with hands-on capstone projects.
+
 - name: "Microsoft Certified: Azure Fundamentals"
   to: 2023-12-22
   description: >
