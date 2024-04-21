@@ -1,88 +1,50 @@
-- name: "**JeffreyM - Microsoft: Senior Business Analyst**"
+- name: "**Microsoft: Senior Analyst**"
   from: 2022-05-01
   to: 2023-12-31
   description: |-
-    Automated multiple manual processes, created and maintained PowerBI reporting and dashboards and built showcases for 200+ games in Game Pass, contributing to a $20M monthly revenue stream.
-    
+    Automated 3 manual processes, created and maintained PowerBI reporting and dashboards and built showcases for 200+ games in Game Pass, contributing to a $20M monthly revenue stream.
+
     Valued Games for contract negotiations, determining ROI and what Microsoft should pay for them.
 
-    Completely automated a previously manual workflow process, equating $4500 per month in time savings.
+    Completely revamped a previously manual workflow process, equating $4500 per month in time savings.
 
     Designed and implemented Python, R, and Power Automate scripts, achieving a workflow reduction of approximately 15%.
 
-    Engineered advanced dashboards to delve deeper into business analytics, providing a clearer understanding of game dynamics and performance metrics.
+    Created 2 Power BI dashboards from SQL databases for operations to delve deeper into business performance.
 
-    Collaborated with internal teams to spearhead the development of new tools and reporting mechanisms, improving operational efficiency.
+    Engaged with department to move to Dynamics 365 CRM creating 3 user guides, collecting requirements for 5 user stories, and 3 custom dashboards.
 
-    Incorporated stakeholder feedback to create user stories and bug issues in Azure DevOps (ADO), ensuring alignment with user needs and system functionality.
-
-    Tracked gaming performance and summarized key business insights for leadership.
-
-    Managed the curation and scheduling of gaming data for annual project prioritization.
-
-    Developed and presented comprehensive showcase decks for industry expositions and gaming conferences, effectively highlighting product features and capabilities.
-
-
-- name: "**RBC Wealth Management: Senior Data Analyst**"
-  from: 2022-01-01
-  to: 2022-04-01
-  description: |-
-    Assessed internal risk and monitored reporting metrics within the newly established Internal Risk Management team, identifying new outliers and ensuring compliance with regulatory agencies.
-    
-    Enhanced RBC workflow automation, reducing a 3-hour process to 20 minutes and saving $225 monthly.
-
-    Implemented data standardization, transitioning from Microsoft Access to Python-scripted Excel workbooks.
-
-    Led the development and analysis of proactive risk monitoring strategies across business lines.
-
-    Achieved a 78% reduction in monthly workflow time account reviews through strategic process improvements.
-
-    Automated Excel-based workbooks into Python scripts, achieving a 30% reduction in required work time.
-
-
-- name: "**H&R Block: Senior Business Analyst**"
+- name: "**H&R Block: Senior Analyst**"
   from: 2020-09-01
   to: 2021-12-01
   description: |-
-    Pioneered the development of Salesforce dashboards and reports at H&R Block, establishing the foundation for company-wide analytics. Independently constructed data pipelines from scratch to support reporting needs.
+    Onboarded 2 departments and 150 employees to Salesforce through Scrum, partnered with IT teams to create, develop, and test over 40 user stories.
 
-    Led the development and widespread adoption of reporting and dashboard creation within Salesforce Tableau CRM (Einstein Analytics) and standard Dashboards and Reports, fostering collaboration with business partners.
+    Created 3 brand new Salesforce Tableau CRM dashboards using 4 custom Dataflows, and over 30 Transformations.
 
-    Engineered a Python script for navigating Salesforce Metadata XML, enabling the conversion of data to CSV for seamless integration with Tableau CRM.
+    Created and maintained 4 weekly SQL reports, and 3 monthly SQL reports.
 
-    Designed and implemented numerous Salesforce Dataflows, custom-tailored to meet specific business requirements, integrating data massaging, analysis, and consumption layers for enhanced data utility.
+    Created 5 Salesforce lightning dashboards utilizing over 12 reports.
 
-    Acted as the Subject Matter Expert (SME) in Salesforce analytics, leading presentations, creating technical documentation, and conducting hands-on training sessions.
-
-    Enhanced data processing and user experience by innovatively rewriting Dataflows, SAQL statements, and Dashboard Queries, resulting in improved efficiency.
-
-    Utilized a suite of SaaS tools, including Salesforce, Azure, Looker, and Jira, to optimize project execution and streamline data management processes.
-
-- name: "**FISERV: Business Intelligence Analyst**"
-  from: 2019-12-01
-  to: 2020-05-01
-  description: |-
-    Led business intelligence meetings focused on identifying and documenting opportunities for enhancing reporting and established new KPIs. Designed and maintained enterprise-level reporting for senior VPs and Directors.
-
-    Developed custom queries using T-SQL within Aginity and SSMS for data manipulation, sanitation, and aggregation, facilitating advanced visualization in Power BI.
-
-    Independently mastered Power BI, DAX, and other analytical tools to craft operational dashboards and senior reports, ensuring efficient handling of large datasets.
-
-    Documented business requirements from product leaders, formulating strategic plans for process improvement and advanced analytical reporting. Headed data analysis projects aimed at bridging operational productivity gaps.
-
-    Transformed an Excel-based attendance tracker into an Access application, complete with custom buttons, forms, and dynamically generated reports. Mediated manager disputes regarding dashboard UI design and KPI metrics.
+    Lead over 12 monthly meetings showcasing Tableau CRM, Dashboards, and Reports and training new users.
 
 
 - name: "**Elan Financial Services: Operations Analyst**"
   from: 2016-11-01
-  to: 2019-12-01
+  to: 2020-05-01
   description: |-
-    Managed fraud control standards by establishing a robust foundation in data collection and analysis within an agile environment, collaborating closely with internal stakeholders to develop effective reporting tools.
-
     Implemented 15 software improvements, resulting in a 300% increase in processed call volume.
 
     Implemented policy and procedure changes, achieving $0 fraud loss in the following year.
 
+    Maintained 4 monthly reports to VP and Directors
+
+    Created holistic Power BI dashboard showcasing agent to department performance sourced from SQL.
+
+    Replaced Excel tracker with Access application including data validation, and automated reports and forms.
+
+    Trained 5 department managers on Power BI
+
     Led the establishment of a new fraud call center, overseeing a team of nearly 50 employees.
 
-    Conducted A/B testing to evaluate and implement process changes & orchestrated department scheduling.
+    Created Excel dashboard showcasing analyst and department performance.

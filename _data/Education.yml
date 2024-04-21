@@ -1,4 +1,4 @@
-- name: "Bachelor of Science in Business Administration"
+- name: "B.S. Business Administration"
   from: 2018-11-01
   to: 2021-05-01
   description: |
@@ -8,7 +8,7 @@
 
     Graduated cum laude in 2021.
 
-- name: "Associate of Science in Business"
+- name: "A.S. Business"
   from: 2015-08-01
   to: 2018-05-01
   description: |
