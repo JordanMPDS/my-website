@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Thinkful Capstone 1"
-date:   2023-11-10 09:25:00 -0600
-categories: data-analysis
+title:  "Website Downloader"
+date:   2024-02-12 14:25:00 -0600
+categories: process-automation
 ---
 
-This year when I was faced with downloading 20K+ files from a website I knew I needed an automated solution.  I worked with a few new tools like selenium, requests, tqdm, and sqlite.  In the end I was able to put together a fantastic package which would download the files, show progress of the current download, and track downloads in a sqlite database to avoid duplicates.  The full script is below, or [click here][github-downloader] for the Github page.
+This year when I was faced with downloading 20K+ files from a website I knew I needed an automated solution.  I worked some new tools like selenium, requests, tqdm, and sqlite.
+
+In the end I was able to put together a fantastic script which would download the files, show progress of the current download, and track downloads in a sqlite database to avoid duplicates.  The full script is below, or [click here][github-downloader] to view it on Github.
 
 ```python
 import requests
