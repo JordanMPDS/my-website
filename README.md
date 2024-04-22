@@ -27,6 +27,7 @@ Automation scripts and tools developed to enhance productivity and efficiency:
 Machine learning projects focusing on predictive modeling and analysis:
 
 - **Ionosphere Dataset Analysis**: Machine learning models to analyze and predict structures in the ionosphere. [View Project](https://jordanmartinetti.com/post/2023/12/14/ionosphere-analysis.html)
+- **Thinkful Data Science Capstone Project 1**: A capstone project focusing on Convolutional neural networks VGG16 and ResNet-50: [View Project](https://www.jordanmartinetti.com/data-analysis/2024/01/22/Capstone-4.html)
 
 ## Acknowledgments
 
