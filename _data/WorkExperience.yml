@@ -1,3 +1,17 @@
+- name: "**University of California: Senior RPA Analyst**"
+  from: 2024-01-01
+  to: 2024-06-30
+  description: |-
+    Lead automation efforts through entire Payroll department
+      
+      Created 4 Excel Macros and automated 6 processes saving 1,035 hours per month
+      
+      Streamlined workflows reducing processing steps and errors
+      
+      Reduced steps and streamlined workflows resulting in 30+ fewer processing steps
+      
+      Created user stories from user feedback for Salesforce automation
+
 - name: "**Microsoft: Senior Analyst**"
   from: 2022-05-01
   to: 2023-12-31

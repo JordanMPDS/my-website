@@ -4,15 +4,21 @@ title: About Jordan
 permalink: /about/
 ---
 
-I am a Senior Business Analyst for a $72B Fortune 15 multinational tech corporation with 7+ years’ experience in business intelligence, including leading teams of up to 50. I have a knack for process automation and data analytics enhancement with an eye for contributing to revenue growth. Expertise in developing PowerBI reporting and dashboards. Leadership in business intelligence and risk management with a high capacity to spearhead new strategies. Adept in business intelligence analysis, machine learning, and data visualization. Genuinely enjoy solving problems, spearheading new projects and operationalizing systems, reports & dashboards. Approach work and life with an attitude of opportunity.
+Senior Analyst for a Fortune 15 tech corporation with 8 years’ experience in data analysis and process improvement. Expertise in developing data analysis and process automation. Leadership in business intelligence and software development with a high capacity to spearhead new strategies. Skilled in business intelligence, programming, and data visualization. Genuinely enjoy solving problems, spearheading new projects, and data analysis.
 
-My public Credly profile page can be [found here][credly-profile]{:target="_blank"}, including certifications for my [Tableau Desktop Specialist][tableau-desktop-specialist]{:target="_blank"} and [Disciplined Agile Scrum Master][disciplined-agile-scrum-master]{:target="_blank"}.
+My resume is available [here]({% post_url 2023-11-02-resume %})
 
-Certifications for Microsoft have moved to their Microsoft Learn platform.  I currently have the following Microsoft certifications:
+Microsoft Certifications:
 
-[Microsoft Certified: Power BI Data Analyst Associate][power-bi-data-analyst]{:target="_blank"}
+* [Microsoft Certified: Power BI Data Analyst Associate][power-bi-data-analyst]{:target="_blank"}
 
-[Microsoft Certified: Azure Fundamentals][azure-fundamentals]{:target="_blank"}
+* [Microsoft Certified: Azure Fundamentals][azure-fundamentals]{:target="_blank"}
+
+Other Certifications:
+
+* [Tableau Desktop Specialist][tableau-desktop-specialist]{:target="_blank"}
+
+* [Disciplined Agile Scrum Master][disciplined-agile-scrum-master]{:target="_blank"}.
 
 [jekyll-organization]: https://github.com/jekyll
 [credly-profile]: https://www.credly.com/users/jordan-martinetti
