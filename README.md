@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my personal and professional portfolio webs
 
 Dashboards developed as part of the portfolio:
 
-- **KC 311 Dashboard**: Visualizes 311 call data for Kansas City. [View Project](https://jordanmartinetti.com/post/2023/12/15/kc-311.html)
+- **KC 311 Dashboard**: Visualizes 311 call data for Kansas City. [View Project](https://www.jordanmartinetti.com/dashboard/2024/07/24/kc-311-new.html)
 - **Divvy Bicycle Sharing Dashboard**: An analytical dashboard for Chicago's Divvy bicycle sharing system. [View Project](https://jordanmartinetti.com/post/2023/12/15/divvy-dashboard.html)
 
 ### Data Analysis Projects
@@ -24,14 +24,18 @@ Automation scripts and tools developed to enhance productivity and efficiency:
 
 ### Machine Learning
 
-Machine learning projects focusing on predictive modeling and analysis:
+Machine learning projects:
 
 - **Ionosphere Dataset Analysis**: Machine learning models to analyze and predict structures in the ionosphere. [View Project](https://jordanmartinetti.com/post/2023/12/14/ionosphere-analysis.html)
 - **Thinkful Data Science Capstone Project 4**: A capstone project focusing on Convolutional neural networks VGG16 and ResNet-50: [View Project](https://www.jordanmartinetti.com/data-analysis/2024/01/22/Capstone-4.html)
 
 ## Acknowledgments
 
-- Special thanks to [Eric Miller](https://github.com/SimplGy) for developing the [jekyll-timeline](https://github.com/SimplGy/jekyll-timeline), which I have incorporated into my website to display my professional timeline.
+- Special thanks to [Eric Miller](https://github.com/SimplGy) for developing the [jekyll-timeline](https://github.com/SimplGy/jekyll-timeline)
+
+## Reproduction
+
+- Built using Ruby 3.2.3 and Jekyll 4.3.3
 
 ## License
 
