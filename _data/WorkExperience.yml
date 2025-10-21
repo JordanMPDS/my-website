@@ -1,3 +1,32 @@
+- name: "**Champion Homes: Power BI Consultant**"
+  from: 2025-06-01
+  to: 2025-12-31
+  description: |-
+    Developed 2 Power BI dashboards utilizing complex DAX measures and best practices to enhance data-driven decision making across business units
+    
+    Refactored existing dashboard reducing file size by 90% and significantly improving performance and load times
+    
+    Built data pipelines in Microsoft Fabric including a Lead to Order matching system using exact and fuzzy matching algorithms for names, emails, and phone numbers
+    
+    Created marketing analytics dashboard tracking website and social media team performance across product promotions.
+
+- name: "**ScriptPro: Power BI Consultant**"
+  from: 2024-07-01
+  to: 2025-05-31
+  description: |-
+    Consolidated 80+ Power BI dashboards down to one
+    
+    Reduced new customer onboard from 4 hours to 30 minutes
+    
+    Reduced time for report changes from 8 hours to 10 minutes 
+    
+    Developed custom Fabric ETL pipeline processing over 20M new records monthly
+    
+    Reduced Power BI Workspace size from 320 objects to 20
+    
+    Created and managed Azure DevOps user stories to track requirements from product owner and CEO
+
+
 - name: "**University of California: Senior RPA Analyst**"
   from: 2024-01-01
   to: 2024-06-30
