@@ -1,93 +1,63 @@
-- name: "**Champion Homes: Power BI Consultant**"
-  from: 2025-06-01
-  to: 2025-12-31
+- name: "**PNC: Senior Portfolio Analyst**"
+  from: 2023-02-01
+  to: 2026-01-31
   description: |-
-    Developed 2 Power BI dashboards utilizing complex DAX measures and best practices to enhance data-driven decision making across business units
+    Continue development on inbound transaction review catching $5MM in monthly fraud
     
-    Refactored existing dashboard reducing file size by 90% and significantly improving performance and load times
+    Optimized reporting reducing false positive rate by 50%
     
-    Built data pipelines in Microsoft Fabric including a Lead to Order matching system using exact and fuzzy matching algorithms for names, emails, and phone numbers
+    Developed new rules for monitoring of newly opened accounts closing 30 accounts monthly.
     
-    Created marketing analytics dashboard tracking website and social media team performance across product promotions.
+    Developed rule-generation ML pipeline catching $50K in monthly fraud
+    
+    Platform QA testing to develop new features and software to improve our way of work.
+    
+    Trained new hires and coached team members on corporate tech stack
 
-- name: "**ScriptPro: Power BI Consultant**"
-  from: 2024-07-01
-  to: 2025-05-31
+- name: "**RBC Wealth Management: Senior Data Analyst**"
+  from: 2022-01-01
+  to: 2023-01-31
   description: |-
-    Consolidated 80+ Power BI dashboards down to one
+    Automated workflows reducing processing time by 80%
     
-    Reduced new customer onboard from 4 hours to 30 minutes
+    Finished 4 dashboards for various business units to track workflow and progress
     
-    Reduced time for report changes from 8 hours to 10 minutes 
+    Managed 3 monthly executive reports
     
-    Developed custom Fabric ETL pipeline processing over 20M new records monthly
+    Partnered across teams to develop new internal reporting
     
-    Reduced Power BI Workspace size from 320 objects to 20
-    
-    Created and managed Azure DevOps user stories to track requirements from product owner and CEO
+    Worked monthly with regulatory agencies complying with data requests.
 
-
-- name: "**University of California: Senior RPA Analyst**"
-  from: 2024-01-01
-  to: 2024-06-30
-  description: |-
-    Lead automation efforts through entire Payroll department
-      
-      Created 4 Excel Macros and automated 6 processes saving 1,035 hours per month
-      
-      Streamlined workflows reducing processing steps and errors
-      
-      Reduced steps and streamlined workflows resulting in 30+ fewer processing steps
-      
-      Created user stories from user feedback for Salesforce automation
-
-- name: "**Microsoft: Senior Analyst**"
-  from: 2022-05-01
-  to: 2023-12-31
-  description: |-
-    Automated 3 manual processes, created and maintained PowerBI reporting and dashboards and built showcases for 200+ games in Game Pass, contributing to a $20M monthly revenue stream.
-
-    Valued Games for contract negotiations, determining ROI and what Microsoft should pay for them.
-
-    Completely revamped a previously manual workflow process, equating $4500 per month in time savings.
-
-    Designed and implemented Python, R, and Power Automate scripts, achieving a workflow reduction of approximately 15%.
-
-    Created 2 Power BI dashboards from SQL databases for operations to delve deeper into business performance.
-
-    Engaged with department to move to Dynamics 365 CRM creating 3 user guides, collecting requirements for 5 user stories, and 3 custom dashboards.
-
-- name: "**H&R Block: Senior Analyst**"
+- name: "**H&R Block: Senior Data Analyst**"
   from: 2020-09-01
-  to: 2021-12-01
+  to: 2021-12-31
   description: |-
     Onboarded 2 departments and 150 employees to Salesforce through Scrum, partnered with IT teams to create, develop, and test over 40 user stories.
-
+    
     Created 3 brand new Salesforce Tableau CRM dashboards using 4 custom Dataflows, and over 30 Transformations.
-
+    
     Created and maintained 4 weekly SQL reports, and 3 monthly SQL reports.
-
+    
     Created 5 Salesforce lightning dashboards utilizing over 12 reports.
-
+    
     Lead over 12 monthly meetings showcasing Tableau CRM, Dashboards, and Reports and training new users.
 
-
-- name: "**Elan Financial Services: Operations Analyst**"
+- name: "**FISERV: Business Intelligence Analyst**"
   from: 2016-11-01
-  to: 2020-05-01
+  to: 2020-05-31
   description: |-
     Implemented 15 software improvements, resulting in a 300% increase in processed call volume.
-
+    
     Implemented policy and procedure changes, achieving $0 fraud loss in the following year.
-
+    
     Maintained 4 monthly reports to VP and Directors
-
+    
     Created holistic Power BI dashboard showcasing agent to department performance sourced from SQL.
-
+    
     Replaced Excel tracker with Access application including data validation, and automated reports and forms.
-
+    
     Trained 5 department managers on Power BI
-
+    
     Led the establishment of a new fraud call center, overseeing a team of nearly 50 employees.
-
+    
     Created Excel dashboard showcasing analyst and department performance.
