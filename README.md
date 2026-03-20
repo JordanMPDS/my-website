@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to the GitHub repository for my personal and professional portfolio website. This project is designed to showcase a comprehensive suite of projects encompassing various aspects of data science, including dashboard creation, data analysis, process automation, and machine learning.  It will also contain various personal projects such as how I setup my website, features and products I use, and exciting things I'm doing on my home lab.  My website also features a timeline of my professional history which can be viewed [here](https://jordanmartinetti.com/2023/12/21/resume.html).
+Welcome to the GitHub repository for my personal and professional portfolio website. This project is designed to showcase a comprehensive suite of projects encompassing various aspects of data science, including dashboard creation, data analysis, process automation, and machine learning.  It will also contain various personal projects such as how I setup my website, features and products I use, and exciting things I'm doing on my home lab.  My website also features a timeline of my professional history which can be viewed [here](https://jordanmartinetti.com/jordan/2023/11/03/resume.html).
 
 ### Dashboards
 
