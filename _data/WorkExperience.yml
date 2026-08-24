@@ -2,62 +2,52 @@
   from: 2023-02-01
   to: 2026-01-31
   description: |-
-    Continue development on inbound transaction review catching $5MM in monthly fraud
+    Architected and scaled inbound transaction monitoring infrastructure detecting $5MM in monthly fraud
     
-    Optimized reporting reducing false positive rate by 50%
+    Architected fraud detection ruleset for monitoring newly opened accounts, closing 30 accounts monthly
     
-    Developed new rules for monitoring of newly opened accounts closing 30 accounts monthly.
+    Built production-grade ML pipeline for rule generation detecting $50K in monthly fraud
     
-    Developed rule-generation ML pipeline catching $50K in monthly fraud
+    Build a dosage-response model quantifying cumulative fraud related friction to predict and explain customer churn.
     
-    Platform QA testing to develop new features and software to improve our way of work.
+    Designed and build large-scale framework to detect anomalous behavioral shifts in customers.
     
-    Trained new hires and coached team members on corporate tech stack
+    Developed and published two internal Python packages providing reusable utilities and PII detokenization.
 
 - name: "**RBC Wealth Management: Senior Data Analyst**"
   from: 2022-01-01
   to: 2023-01-31
   description: |-
-    Automated workflows reducing processing time by 80%
+    Engineered workflow automation reducing processing time by 80%
     
-    Finished 4 dashboards for various business units to track workflow and progress
+    Architected 4 business intelligence dashboards for cross-functional teams to track workflow and progress
     
-    Managed 3 monthly executive reports
+    Orchestrated delivery of 3 executive-level reporting products (monthly cadence)
     
-    Partnered across teams to develop new internal reporting
+    Collaborated cross-functionally to architect internal reporting infrastructure
     
-    Worked monthly with regulatory agencies complying with data requests.
+    Interfaced with regulatory agencies monthly ensuring compliance with data requests
 
 - name: "**H&R Block: Senior Data Analyst**"
   from: 2020-09-01
   to: 2021-12-31
   description: |-
-    Onboarded 2 departments and 150 employees to Salesforce through Scrum, partnered with IT teams to create, develop, and test over 40 user stories.
+    Led enterprise Salesforce adoption across 2 departments (150+ users) via Agile methodology, collaborating with IT to architect, develop, and validate 40+ user stories
     
-    Created 3 brand new Salesforce Tableau CRM dashboards using 4 custom Dataflows, and over 30 Transformations.
+    Architected 8 production Salesforce dashboards across Tableau CRM and Lightning, leveraging 4 custom Dataflows and 30+ data transformations
     
-    Created and maintained 4 weekly SQL reports, and 3 monthly SQL reports.
+    Built and maintained 7 production SQL reporting pipelines (4 weekly, 3 monthly cadence)
     
-    Created 5 Salesforce lightning dashboards utilizing over 12 reports.
-    
-    Lead over 12 monthly meetings showcasing Tableau CRM, Dashboards, and Reports and training new users.
+    Facilitated 12+ monthly stakeholder sessions demonstrating Tableau CRM, dashboards, and reports while enabling new users
 
 - name: "**FISERV: Business Intelligence Analyst**"
   from: 2016-11-01
   to: 2020-05-31
   description: |-
-    Implemented 15 software improvements, resulting in a 300% increase in processed call volume.
+    Delivered 15 critical software enhancements driving 300% increase in processed call volume
     
-    Implemented policy and procedure changes, achieving $0 fraud loss in the following year.
+    Architected policy framework achieving $0 fraud loss in subsequent fiscal year
     
-    Maintained 4 monthly reports to VP and Directors
+    Engineered end-to-end Power BI analytics solution showcasing agent-to-department performance with SQL backend integration
     
-    Created holistic Power BI dashboard showcasing agent to department performance sourced from SQL.
-    
-    Replaced Excel tracker with Access application including data validation, and automated reports and forms.
-    
-    Trained 5 department managers on Power BI
-    
-    Led the establishment of a new fraud call center, overseeing a team of nearly 50 employees.
-    
-    Created Excel dashboard showcasing analyst and department performance.
+    Architected and operationalized new fraud call center, overseeing team of 50 employees

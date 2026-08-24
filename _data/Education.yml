@@ -2,19 +2,15 @@
   from: 2024-08-19
   to: 2026-05-31
   description: |
-    Currently attending the Univeristy of Missouri for the M.S. Data Science and Analytics program.
+    Studied at Univeristy of Missouri in Columbia, MO.
 
-    Attending class part-time while working full-time.
-
-    Expecting to graduate May of 2026
+    Graduated in 2026
 
 - name: "B.S. Business Administration"
   from: 2018-11-01
   to: 2021-05-01
   description: |
     Studied at Minnesota State University Moorhead in Moorhead, MN.
-
-    Attended class part-time while working full-time.
 
     Graduated cum laude in 2021.
 
@@ -24,6 +20,4 @@
   description: |
     Studied at Minnesota State Community College in Moorhead, MN.
 
-    Attended class part-time while working full-time.
-    
     Graduated in 2018.
